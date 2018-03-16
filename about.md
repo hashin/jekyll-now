@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 I write about the world!
@@ -12,4 +13,4 @@ I write about the world. When I meet new people, I ask them - <a href="http://ha
 
 ### Contact me
 
-[email@domain.com](mailto:mail@hashin.me)
+[mail@hashin.me](mailto:mail@hashin.me)

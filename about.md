@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write about the world!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I write about the world. When I meet new people, I ask them - <a href="http://haveyoumethash.in" target="_blank">Have you met Hashin?</a>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:mail@hashin.me)

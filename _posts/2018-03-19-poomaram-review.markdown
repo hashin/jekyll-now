@@ -4,9 +4,6 @@ title: A movie that treats you the way you treat art!
 image: http://mallumusic.net/img/Poomaram-2016.jpg
 date: '2018-03-19 12:36:19'
 ---
-
-# A movie that treats you the way you treat art!
-
 Abrid Shine created this movie with an agenda. An agenda that isn't obvious through the screenplay. You have to read between the lines. Or rather, see through the shots, to take out the message.
 
 Poomaram is a movie that lives, tells and feels art in every bit of it. Like other fine pursuits of life, art can also feel void and boring to a pair of untrained eyes. And artists, preposterous bastards who often act holier than thou!

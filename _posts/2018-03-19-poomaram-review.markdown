@@ -44,4 +44,4 @@ We hopped between stages, getting immersed in the art as we discovered ourselves
 
 That brings in the touching rendition of Pablo Neruda's poem shown in the movie. The scene complements the profoundness of the lyrics. The actors remind us how fragile we are! We all have had those moments. More than a gripping story line, it is these moments that we get to take away from this movie.
 
-I don't rate movies. But sure, this is one movie that I loved warching. Highly recommended anyone who appreciate fine arts and other fine things in life.
+I don't rate movies. But sure, this is one movie that I loved warching. Highly recommended for anyone who appreciate fine arts and other fine things in life.

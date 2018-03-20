@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 ---
 
-I write about the world!
-
 `A melancholy-looking man, he had the appearance of one who has searched for the leak in life's gas-pipe with a lighted candle.`  
 `~ P.G Wodehouse.`
 

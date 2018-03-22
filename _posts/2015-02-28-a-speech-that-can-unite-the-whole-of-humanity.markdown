@@ -3,13 +3,14 @@ layout: post
 title: A Speech that can unite the whole of Humanity
 date: '2015-02-28 11:10:10'
 tags:
-- writing
-- blog
-- life
-- rants
+  - writing
+  - blog
+  - life
+  - rants
+published: true
 ---
 
-<iframe width="850" height="450" src="https://www.youtube.com/embed/WibmcsEGLKo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100" height="300" src="https://www.youtube.com/embed/WibmcsEGLKo" frameborder="0" allowfullscreen></iframe>
 
 <br>
 This speech is getting more and more relevant today. Nothing is comparable to the angst you get when you could relate to the feelings and thoughts of a man who is nothing but long gone from the surface of this planet. 
@@ -32,5 +33,4 @@ Don’t give yourselves to these unnatural men – machine men with machine mind
 
 Let us fight for a new world, a decent world that will give men a chance to work, that will give youth a future and old age a security. By the promise of these things, brutes have risen to power. But they lie! They do not fulfill that promise. They never will! Dictators free themselves but they enslave the people. Now let us fight to fulfill that promise. Let us fight to free the world! To do away with national barriers! To do away with greed, with hate and intolerance!
 
-Let us fight for a world of reason, a world where science and progress will lead to all men’s happiness. Soldiers, in the name of democracy, let us all unite!” 
-
+Let us fight for a world of reason, a world where science and progress will lead to all men’s happiness. Soldiers, in the name of democracy, let us all unite!”

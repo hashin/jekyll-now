@@ -9,9 +9,9 @@ tags:
   - rants
 published: true
 ---
-
-<iframe width="100" height="300" src="https://www.youtube.com/embed/WibmcsEGLKo" frameborder="0" allowfullscreen></iframe>
-
+<hr>
+Video removed.
+<hr>
 <br>
 This speech is getting more and more relevant today. Nothing is comparable to the angst you get when you could relate to the feelings and thoughts of a man who is nothing but long gone from the surface of this planet. 
 

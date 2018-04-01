@@ -2,8 +2,8 @@
 published: true
 layout: post
 title: About Identity Politics.
-image: 'https://aambar.files.wordpress.com/2018/01/padmaavat-2.jpg'
-date: '2018-03-29 10:51:39'
+image: 'https://wikibengdotcom.files.wordpress.com/2017/09/multitude.jpg'
+date: '2018-04-01 12:42:39'
 ---
 Identity politics is a boon as well as a bane. It is divisive by definition. Instead of promoting a strong, unifying identity, emphasis is on old, parochial ones. These identities may have been a vestige of the past. But when mobilisation happen across them, fault lines gets more entrenched.
 
@@ -13,5 +13,4 @@ Identity politics work well for minuscule minorities. For a minority with consid
 
 Identity politics has helped transgenders and other minuscule minorities. It is necessary for visibility. Also, chances of alienation and polarisation initiated by majority is little here. Bigger minorities are better off modernising and educating themselves. To create a pluralistic narrative and be the torch bearers of unity in diversity.
 
-Economics, education and bloodline (mixed race, caste and religion) should erode primordial identities. A good balance between identity politics and development led national integration is imperative. 
-
+Economics, education and bloodline (mixed race, caste and religion) should erode primordial identities. A good balance between identity politics and development led national integration is imperative.

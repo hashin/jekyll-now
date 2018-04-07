@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A movie that treats you the way you treat art!
-image: 'http://mallumusic.net/img/Poomaram-2016.jpg'
+image: 'http://www.kushlosh.com/wp-content/uploads/2018/01/poomaram.jpg'
 date: '2018-03-19 12:36:19'
 published: true
 ---

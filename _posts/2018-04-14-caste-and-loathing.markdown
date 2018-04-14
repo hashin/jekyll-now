@@ -6,14 +6,6 @@ image: >-
   https://az616578.vo.msecnd.net/files/2016/09/27/636105935525928636695191810_Saarc-unable-to-solve-india-pakistan-problem-over-kasmir.jpg
 date: '2018-04-14 10:51:39'
 ---
----
-layout: post
-title:  Caste and loathing in Indo-Pakistan.
-image: 'https://az616578.vo.msecnd.net/files/2016/09/27/636105935525928636695191810_Saarc-unable-to-solve-india-pakistan-problem-over-kasmir.jpg'
-date: '2018-04-14 10:51:39'
-published: true
----
-
 Pakistani Journalist Khaled Ahmed writes so often in Indian Express. His writings throw deep insights into the nature of his society. He admits that the process of nation building has hit a dead end there. And the credit goes back to the original sin - creating a theocratic state.
 
 The intention behind publishing his articles in Indian Express are quite clear to me. Juxtapose it with what we have in India today. Though communal politics is at fore, the force is strong with the Caste. 

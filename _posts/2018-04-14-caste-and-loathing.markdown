@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+title: Caste and loathing in Indo-Pakistan.
+image: >-
+  https://az616578.vo.msecnd.net/files/2016/09/27/636105935525928636695191810_Saarc-unable-to-solve-india-pakistan-problem-over-kasmir.jpg
+date: '2018-04-14 10:51:39'
 ---
 ---
 layout: post

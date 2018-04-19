@@ -14,7 +14,7 @@ Birth of a nation can come about in umpteen different ways. But death of nation 
 
 I don't buy the argument that nuance is not a forte of the *hoi polloi*. Industrious people built cultures and civilisations. True, they got leaders in the process. But millions of hands had to come together to put the bricks and mortar together.  That motivation of the masses arose out of conviction. Emotions can reap short term benefits, but in the long term - tangible results and institutions are a must.
 
-Falling in love with a nation, is not to love the barbed wires that makes up its boundaries. It is not to admire the rocket launchers that 'protect' imaginary lines on sand. To love a nation is to love its people. If you don't get this, you belong to nothing.
+Falling in love with a nation, is not to love the barbed wires that make up its boundaries. It is not to admire the rocket launchers that 'protect' imaginary lines on sand. To love a nation is to love its people. If you don't get this, you belong to nothing.
 
 Emotions are especially dangerous to nations built upon civic citizenship. True, religion and ethnicity can constitute a nation. Travel to the Balkans and you will see it first hand. Every denomination of people has a nation of their own. You are just born in to these nations!
 

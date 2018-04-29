@@ -15,9 +15,9 @@ I struggled to freed myself from her clutches. Waxed with love, her claws were m
 
 "When this is over, I am going to write a book. I will laminate every copy with latex, the kind of stuff they make ultra thin condoms. So when people touch it for the first time, they know what it is all about...". I told her with a dopey smile, constructing a plot in my mind. I almost congratulated myself for the bona fide innovation.
 
-"You will make a terrible writer, *Hunny*! Slimy book covers doesn't kick off unless you deliver it straight to their bathroom. Are you gonna do that too?"
+"You will make a terrible writer, *Hunny*!. Slimy book covers doesn't kick off unless you deliver it straight to their bathroom. Are you gonna do that too?"
 
-Till then, I haven't given much thought into that. From then on, my erotica will flutter away from the realms of the lascivious. Much like the 80s filmmakers, they would chase wax statues and animated keyholes. I couldn't choose between oiled heavy metal machinery and machinations of the integuments. What's more sexy? Coiling snakes or slushy earthworms?
+Till then, I haven't given much thought into that. From then on, my erotica will flutter away from the realms of the lascivious. Much like the '80s filmmakers, they would chase wax statues and animated keyholes. I couldn't choose between oiled heavy metal machinery and machinations of the integuments. What's more sexy? Coiling snakes or slushy earthworms?
 
 Earthworms are hermaphrodites. They have sex by juxtaposing their loins with each other. Wonder what patriarchy and feminism means to them!  
 

@@ -5,7 +5,7 @@ published: true
 
 *If the purpose of art is to express fundamental human condition, which part of humanity should it stress more?*
 
-The vibrant colours that the retina could capture? The sonorous notes that could tingle your senses? Thorough gratification of the palate? Via a stucco that could open up neural pathways when you touch it?
+The vibrant colours that the retina could capture? The sonorous notes that could tingle your senses? Thorough gratification of the palate? A stucco that could open up your nerves when you touch it?
 
 What is it that the artist should stress upon - on which sense of yours?
 
@@ -25,21 +25,21 @@ This is a constant churn; it would be really hard to pause at a certain moment a
 
 It’s easier to talk about humanity if we were to talk in terms of sex. You don’t have to magnify it to Freudian scales, but most human interactions are affected by the way sexuality influences a person.
 
-Hypocrisy is a word that most of us love. We use it everywhere, well because there are reasons aplenty to throw it around. Just look around are you see it, don’t you?
+Hypocrisy is a word that most of us love. We use it everywhere, well because there are reasons aplenty to throw it around. Just look around; You see it a lot, don’t you?
 
-Have we ever wondered about the genes that make us horny? What are these genes doing in people who gave it to us? Not just our parents, but the society in general? Even our vocabulary is limited when it comes to talking sex. When they told us to be good boys and girls devoid of sexual expression, what were they doing?
+Have we ever wondered about those genes which make us horny? What are they doing in people who gave it to us? Not just our parents, but this society in general? Even our vocabulary is limited when it comes to talking sex. When they told us to be good boys and girls devoid of sexual expression, what were they doing?
 
-I am not trying to ‘sexify’ everything as Freud did. But may be somewhere, isn’t this self suppression an extension of our own subservience to a society that expects us to conform? To conform, we need to suppress. To suppress the urgers, where is the training coming from?
+I am not trying to ‘sexify’ everything as Freud did. But may be somewhere, isn’t this self suppression an extension of our own subservience to a society that expects us to conform? To conform, we need to suppress. To suppress the urges, where will the training come from?
 
 Sore loins are a necessary precondition to a paranoiac mind in which we could breed hostility. Hostility towards an imagined enemy is necessary to build social cohesion in communities.
 
 You see the pattern, don’t you?
 
-This is why art is characteristically subversive. Art talking about sex more so. This art is a sexually repressed society? Even more so!
+This is why art is characteristically subversive. Art talking about sex more so. This art in a sexually repressed society? Even more so!
 
 Now that we have the necessary background, let’s talk about the movie.
 
-There are many ways to protest in art. One is to expose to the world how stupid a certain thing is and ask for it to effectuate change. Another is to show an alternate reality where things are better or worse. An utopia or a dystopia, you hopefully churn their gut enough to make them *see*.
+There are many ways to protest in art. One is to expose to the world how stupid a something is and ask for it to effectuate change. Another is to show an alternate reality where things are better or worse. Create an utopia or a dystopia; you churn their gut enough to make them *see*.
 
 And hope they change.
 
@@ -55,12 +55,12 @@ To the maid who sleeps with her employer; class and caste soon finds her where s
 
 Then, as they drift back into their *real* selves, this dream is lost. The last remnants are washed away as she herself is changing the bed sheet. In between, they enjoy a moment of equality - where she calls him a *dirty dog.*
 
-She could afford to call him a dirty dog because she slept with him. The proletariat will always need to negotiating table. But to reach there, they have to sell themselves first.
+She could afford to call him a dirty dog because she slept with him. The proletariat will always get to the negotiating table. But to reach there, they have to sell themselves first.
 
 Power is about being able to extract favours. Even when you are paying for them somehow. The imaginary settings and the universes we construct for the worker bees in their fabled cubicles and all that. 
 You don’t really see it, do you?
 
-Here too, the reality dawns her as she walks into that elevator. An elevator that takes her *back* into the subaltern.
+Here too, the reality dawns her as she walks into that elevator. An elevator that takes her *back* into the subaltern, her place in this world.
 
 What do you do when your wife sleeps with your best friend? Whom do you hurt? Do you become a volcano or cry like a baby?
 

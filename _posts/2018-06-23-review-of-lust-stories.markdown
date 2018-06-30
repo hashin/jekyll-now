@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+title: Review of Lust Stories.
+image: 'http://static.dnaindia.com/sites/default/files/styles/full/public/2018/05/18/683850-lust-stories.jpg'
+date: '2018-06-23 11:56:45'
 ---
 >Lust’s passion will be served; it demands, it militates, it tyrannises. ~ Marquis de Sade.
 

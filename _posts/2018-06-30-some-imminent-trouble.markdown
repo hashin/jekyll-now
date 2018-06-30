@@ -1,4 +1,8 @@
 ---
+layout: post
+title:  Some imminent trouble.
+image: 'http://www.lwartonline.com/wp-content/uploads/2013/05/Power-of-Art_thumbnail.jpg'
+date: '2018-06-30 14:51:39'
 published: true
 ---
 

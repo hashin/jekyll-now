@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Wisdom is nothing but agony if we are unable to apply it somewhere. Casual ethnocentrism aside, we have legitimate reasons to celebrate the success of Kerala. Our state has scored high in many social indicators. But it is yet safe to say that we have achieved development?
@@ -47,5 +47,3 @@ But I am fearful that a section of our population may turn cynical. We will have
 We have to be careful that we don't let this happen. I wish to, but I can't anymore bet on Kerala being an enlightened society. May be the policymakers want to look into this.
 
 We are defined by how we treat the weakest amongst us. I don't intend to sound sanctimonious here. We have to take real care to keep this stature so laboriously earned.
-
- 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Some imminent trouble.
-image: 'http://www.lwartonline.com/wp-content/uploads/2013/05/Power-of-Art_thumbnail.jpg'
+title: Some imminent trouble.
+image: >-
+  http://www.lwartonline.com/wp-content/uploads/2013/05/Power-of-Art_thumbnail.jpg
 date: '2018-06-30 14:51:39'
 published: true
 ---
@@ -34,7 +35,7 @@ An Empire, when it starts off, has to be tolerant to preserve its integrity. As 
 
 The Mughal Padishah ruled the whole globe (according to them, of course). The Chinese nation stood at the centre of the *Tianxia*. The West of today thinks that their principles are applicable to the whole of mankind. 
 
-![]({{site.baseurl}}/https://blogs.timesofindia.indiatimes.com/wp-content/uploads/2016/05/Capture17.jpg)
+![](https://blogs.timesofindia.indiatimes.com/wp-content/uploads/2016/05/Capture17.jpg)
 
 The cosmopolitan Ottoman Polity, based on the *Millet* system enabled them to stay in power for so long. Once they dismantled this system in favour of autocracy, they lost their foothold. 
 

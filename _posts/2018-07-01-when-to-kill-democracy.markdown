@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When to kill our Democracy?
+title: How to kill a Democracy.
 image: 'https://guardian.ng/wp-content/uploads/2017/05/GLS-1-7-5-17.jpg'
 date: '2018-07-01 15:52:39'
 published: true

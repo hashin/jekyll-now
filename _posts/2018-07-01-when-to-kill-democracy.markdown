@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  When to kill our Democracy?
+title: When to kill our Democracy?
 image: 'https://guardian.ng/wp-content/uploads/2017/05/GLS-1-7-5-17.jpg'
 date: '2018-07-01 15:52:39'
 published: true
@@ -9,7 +9,7 @@ Can dangerous outcomes prove the inefficacy of Democracy?
 
 I will answer this from the perspective of a westernised polity from the classical east - India.
 
-Our erstwhile British masters, left rudimentary parliamentary system of government in India. A strong civil service and policing infrastructure propped it up till 1947. Then we broke free and changed it for good.
+Our erstwhile British masters, left a rudimentary parliamentary system of government in India. A strong civil service and policing infrastructure propped it up till 1947. Then we broke free and changed it for good.
 
 After that, we retained the parliamentary system by democratising it. More, we humanised the various organs of the state. Though we haven't reached the final goal yet, we do have a functional democratic state. We are yet to get rid of some feudal elements. Some class/oligarchical interests continue to plague our system. But I am hopeful that we will do well in time.
 

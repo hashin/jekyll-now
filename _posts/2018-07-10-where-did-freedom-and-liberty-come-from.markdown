@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  Quora answer.
-image: 'link'
+title: >-
+  Where did the American ideals of Liberty, Equality and unalienable rights come
+  from?
+image: link
 date: '2018-07-10 10:51:39'
 published: true
 ---

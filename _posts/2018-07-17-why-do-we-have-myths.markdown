@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why do we have myths, Bob?
-image: 'https://i.imgur.com/P139MDX.jpg'
+image: 'https://pre00.deviantart.net/d82c/th/pre/f/2013/252/4/0/4089efbf634bfc662427e375eb9d38d7-d6lqob1.jpg'
 date: '2018-07-17 17:45:29'
 published: true
 ---

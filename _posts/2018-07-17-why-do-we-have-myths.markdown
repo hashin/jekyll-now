@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Why do we have myths, Bob?
-image: 'https://pre00.deviantart.net/d82c/th/pre/f/2013/252/4/0/4089efbf634bfc662427e375eb9d38d7-d6lqob1.jpg'
+title: 'Why do we have myths, Bob?'
+image: >-
+  https://pre00.deviantart.net/d82c/th/pre/f/2013/252/4/0/4089efbf634bfc662427e375eb9d38d7-d6lqob1.jpg
 date: '2018-07-17 17:45:29'
 published: true
 ---
-Why do we have myths, Bob?
+Pertinent question, but why?
 
 When we say "State", people look at the concrete stuff. The prominent sign boards, (wo)men in the uniform or lamp posts and waiting sheds funded by the beloved MPs.
 

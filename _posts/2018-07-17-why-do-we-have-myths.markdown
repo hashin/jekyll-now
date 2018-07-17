@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Why do we have myths, Bob?.
+image: 'https://i.imgur.com/P139MDX.jpg'
+date: '2018-07-17 17:45:29'
+published: true
 ---
 Why do we have myths, Bob?
 

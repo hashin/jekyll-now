@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Life after death.
+image: 'https://i.imgur.com/if3wmBb.png'
+date: '2018-07-29 20:25:39'
+published: true
 ---
 Life is important, of course. But what comes after death?
 

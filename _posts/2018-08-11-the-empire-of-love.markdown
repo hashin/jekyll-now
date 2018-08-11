@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title:  The empire of love.
+image: 'https://img00.deviantart.net/5e6a/i/2015/150/5/6/the_oasis_empire_by_eddie_mendoza-d8vdk08.jpg'
+date: '2018-08-11 22:35:39'
+published: true
 ---
+
 A Sadhu - a fakir - was found dead under an old banyan tree. I found this note neatly curled up under his arms. Here, I publish it for common good.
 
 ___

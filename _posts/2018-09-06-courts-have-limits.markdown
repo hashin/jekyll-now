@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  The Courts alone won't do!
-image: 'https://cdn-az.allevents.in/banners/7f050b92fde47b7cd1d1e1ba0c58d47a-rimg-w526-h371-gmir.jpg'
+title: The Courts alone won't do!
+image: >-
+  https://cdn-az.allevents.in/banners/7f050b92fde47b7cd1d1e1ba0c58d47a-rimg-w526-h371-gmir.jpg
 date: '2018-09-06 15:00:32'
 published: true
 ---
@@ -17,11 +18,11 @@ And all these elected governments have evaded the responsibility of either intod
 
 We are to blame because what are we, the people, doing to create an enlightened citizenry? What are our forms of interventions?
 
-It is quite easy to applaud the SC for judgements like this. But it just another institution in our gullibe polity. What if, it is to renege in its exalted ideals in the years to come? If we aren't enlightened enough, I reckon, even this instituion wouldn't prove infallible. Of late, with all those institutional attempts to erode its legitimacy, we should be ever cautious. 
+It is quite easy to applaud the SC for judgements like this. But it is just another institution in our gullibe polity. What if, it is to renege from its exalted ideals in the years to come? If we aren't enlightened enough, I reckon, even this instituion wouldn't prove infallible. Of late, with all those institutional attempts to erode its legitimacy, we should be ever cautious. 
 
-If we are celebrating this too much, wouldn't over protests be blunted when we accuse the courts of judicial activism?
+If we are celebrating this too much, wouldn't our protests be blunted when we accuse the courts of judicial activism on many other issues, some of them very legitimately so?
 
-After all, Judiciary is the least accountable to other organs of the state. I wish it to stay so. For the interests of rule of the law might be in conflict with the aspirations of the respective majorities of a time. But the institution shall stay strong enough to protect the gentle decencies of rule of the law. 
+After all, Judiciary is the least accountable among organs of the state. I wish it to stay so. For the interests of rule of the law might be in conflict with the aspirations of the respective majorities of a time. But the institution shall stay strong enough to protect the gentle decencies of rule of the law. 
 
 It is through other organs of the state that forces of social progress shall see prime expression. Judiciary can indeed drive social progress, but its avenues are limited. Even less, the resources at its disposal. The only valuable thing that it possess is its legitimacy.
 

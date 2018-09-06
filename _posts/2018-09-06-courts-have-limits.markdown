@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  The Courts alone won't do!
+image: 'https://cdn-az.allevents.in/banners/7f050b92fde47b7cd1d1e1ba0c58d47a-rimg-w526-h371-gmir.jpg'
+date: '2018-09-06 15:00:32'
+published: true
 ---
 Everytime we hear the Supreme Court of India making a progressive judgement, we are flooded with a bout of celebrations. But I, for that matter, have mixed feelings about this whole business.
 

@@ -21,13 +21,13 @@ Much has been written about Gandhi. Apart from the obvious hagiographies, we see
 
 Gandhi led the biggest Muslim movement in the history of India - the Khilafat. Then he was chastised by Jinnah for mixing religion in politics. Jinnah’s intellectual distaste for religion betrayed his lack of roots in the masses. Gandhi, shrewdly realised the true nature of religion. This is a much nuanced view that stand in contrast to *culture* blind Atheism.
 
-Religion is an outgrowth of culture. We tend to believe otherwise. Merely that a person primarily identifies with a religion doesn’t prove her natural affinities or allegiances. Jinnah and Nehru was right in believing that politics pollutes religious sphere. Gandhi’s idea was to ‘cleanse’ political sphere with religion.
+Religion is an outgrowth of culture. We tend to believe otherwise. Merely that a person primarily identifies with a religion doesn’t speak anything of her natural affinities or allegiances. Jinnah and Nehru was right in believing that politics pollutes religious discourse. Gandhi’s idea was to ‘cleanse’ political sphere with religion.
 
 And his greatest weapon? Identities.
 
 Gandhi understood the power of identities. He rightly diagnosed the problem with contemporary religion - the prominence of identity over the supposed spiritual benefits of the same. 
 
-When Gandhi finally returned from East Bengal post partition, living in Delhi, he was heckled at prayer meeting for including Islamic prayers. He suspended it and went on a fast till the meetings was resumed with Islamic prayers. He liberally used Bible to pep up the offerings. The syncretism he championed was nothing but a conscious choice to construct a *common minimum programme*.
+When Gandhi finally returned from East Bengal post partition, living in Delhi, he was heckled at prayer meeting for including Islamic texts. He suspended it and went on a fast till the meetings was resumed with Islamic rituals. He liberally used Bible to pep up the offerings. The syncretism he championed was nothing but a conscious choice to construct a *common minimum programme*.
 
 For if religion is to be decoupled from the entrenched elite, the *bahujan* must be shown how similar they are to each other. Despite all these religious paraphernalia that they sport, to the core they are essentially the same people.
 
@@ -39,7 +39,7 @@ It helps to see the fundamental nature of society at this point.
 
 Even if a people is to adopt certain ideologies as their dearest, they are to move away from it at a later point of time. We might adopt Socialism at one juncture, only to ditch it for a different one later. In this ever evolving yin-yang like world, the only meaning of life is to understand what the underlying reality is. This is the quest for truth.
 
-But alas, this can never be complete. Poor Gandhi kept doing this till his end. But while doing it, he taught us how to do it authentically and learn a lot in the process. 
+But alas, this can never be complete. Poor Gandhi kept doing this till his very end. But while doing it, he taught us how to do it authentically and learn a lot in the process. 
 
 This learning should come handy in this neoliberal, consumerist world that teaches us that the purpose of life is in rapacious consumption. To resist the temptation of this beast, we ought to have strong moral foundations upright in the quest for Truth. Gandhi comes to rescue here. 
 

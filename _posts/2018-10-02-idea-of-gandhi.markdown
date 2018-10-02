@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  The idea of Gandhi.
-image: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mahatma-gandhi-purno-nono.jpg'
+title: The idea of Gandhi.
+image: >-
+  https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mahatma-gandhi-purno-nono.jpg
 date: '2018-10-02 10:38:22'
 published: true
 ---
@@ -14,7 +15,7 @@ His killers wanted to demonstrate the untenability of non-violence and that forc
 
 We saw this in the partition riots. Then in numerous bigoted acts of the nascent state of Pakistan. In India, despite the non-cooperation of the state, rogue elements made it a point to evoke our primordial identities to conjure up ghoulish orgies of violence every once in a while.
 
-Irrespective of being Hindu or Muslim, India’s children fell rotting in our streets falling to prey to this hatred. Is Gandhi still relevant? What about the idea of Gandhi?
+Irrespective of being Hindu or Muslim, India’s children fell rotting in our streets falling prey to this hatred. Is Gandhi still relevant? What about the idea of Gandhi?
 
 Much has been written about Gandhi. Apart from the obvious hagiographies, we see critics abound from both left and right. How he sabotaged the Poona Pact or how he was too pro-muslim. My intention is not to vindicate Gandhi for his political stances or even ambitions. But to ferret out the idea of Gandhi from the noise - of what his greatest legacy is.
 

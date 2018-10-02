@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title:  The idea of Gandhi.
+image: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mahatma-gandhi-purno-nono.jpg'
+date: '2018-10-02 10:38:22'
+published: true
 ---
+
 ![](https://orig00.deviantart.net/26f4/f/2016/212/c/a/gandhi_lagi_by_edhoartwork-dac1wkd.jpg)
 
 Today marks the 150th birth anniversary of Mahatma Gandhi. The man was killed, his followers confused and his ideals vanquished in an act of violence. But the question remains - what did he stand for? If it was an idea, is it possible to kill an idea?

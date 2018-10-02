@@ -7,9 +7,8 @@ date: '2018-10-02 10:38:22'
 published: true
 ---
 
-![](https://orig00.deviantart.net/26f4/f/2016/212/c/a/gandhi_lagi_by_edhoartwork-dac1wkd.jpg)
-
 Today marks the 150th birth anniversary of Mahatma Gandhi. The man was killed, his followers confused and his ideals vanquished in an act of violence. But the question remains - what did he stand for? If it was an idea, is it possible to kill an idea?
+![](https://orig00.deviantart.net/26f4/f/2016/212/c/a/gandhi_lagi_by_edhoartwork-dac1wkd.jpg)
 
 His killers wanted to demonstrate the untenability of non-violence and that force is the ultimate arbitrator of justice. This justice is nothing but the dominant view of a society. If the society is impatient enough to listen to its own diversity, it is bound to act psychotic forever, caught in its own circles - eating up its own children.
 

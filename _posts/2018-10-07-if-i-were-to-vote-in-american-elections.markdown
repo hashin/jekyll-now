@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  As a non American which party would you vote for if you lived in the US?
-image: 'link'
+image: 'https://scontent.fdel13-1.fna.fbcdn.net/v/t1.0-9/17903802_624947934362959_6070099095298671537_n.jpg'
 date: '2018-10-07 11:48:39'
 published: true
 ---

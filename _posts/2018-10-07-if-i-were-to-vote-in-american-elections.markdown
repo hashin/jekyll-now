@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  As a non American which party would you vote for if you lived in the US?
+image: 'link'
+date: '2018-10-07 11:48:39'
+published: true
 ---
 So here's the question - "As a non American which party would you vote for if you lived in the US?"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Last Letter - Letters from Sagar to Ananya.
+title: The Last Letter - Letters from Sagar to Ananya.
 image: 'https://i.imgur.com/ebYRWtd.jpg'
 date: '2018-10-12 22:42:23'
 published: true
@@ -28,7 +28,7 @@ The thousand stories we exchanged between short exhilarating breaths that refuse
 
 But someone stole the thunder from me. I don’t stir you anymore. Our stew has turned stale. What’s the point in living? I am not a coward. I am just fed up with the world. It doesn’t make sense to me without you. Now that you are irretrievably lost, why should I shy away from this irreversible decision?
 
-No I am not going to kill myself. That will be stupid, considering the beauties of life that I am foregoing. Who knows of what is in store for me? The thousand splendid suns or the barrels of honey stashed in underground caverns. The places unseen and the pains to be endured. Another heartbreak, perhaps?
+No, I am not going to kill myself. That will be stupid, considering the beauties of life that I am foregoing. Who knows of what is in store for me? The thousand splendid suns or the barrels of honey stashed in underground caverns. The places unseen and the pains to be endured. Another heartbreak, perhaps?
 
 A stray odour in air might trigger me back into your spoor. Your roots are still deep inside my heart and the stump is ever hurting me. The void that you left behind is being filled with shape shifting monsters that make me shudder. But I will grow out of this. Can I give up so easily?
 
@@ -52,12 +52,3 @@ Maybe I will find love again, maybe I will not. Hope I get to live long enough t
 
 Regards,
 Sagar.
-
-
-
-
-
-
-
-
-

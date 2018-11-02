@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Tikes finally makes the hike.
+image: 'https://images.fineartamerica.com/images-medium-large/night-traffic-romy-galicia.jpg'
+date: '2018-11-02 19:04:39'
+published: true
 ---
 It has been an interesting year. I am not really a bird whose feathers are stuck from an oil spill. But my helplessness is far more insidious. More like a doll which is forced into taking a space trip. My cosy fur turned coarse last winter, aerodynamics is out of the book. Limbs have applied for voluntary retirement. I am a far cry from my youth.
 

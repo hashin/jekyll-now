@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Tikes finally makes the hike.
-image: 'https://images.fineartamerica.com/images-medium-large/night-traffic-romy-galicia.jpg'
+image: >-
+  https://images.fineartamerica.com/images-medium-large/night-traffic-romy-galicia.jpg
 date: '2018-11-02 19:04:39'
 published: true
 ---
-It has been an interesting year. I am not really a bird whose feathers are stuck from an oil spill. But my helplessness is far more insidious. More like a doll which is forced into taking a space trip. My cosy fur turned coarse last winter, aerodynamics is out of the book. Limbs have applied for voluntary retirement. I am a far cry from my youth.
+It has been an interesting year. I am not really a bird whose feathers are wound up by an oil spill. But my helplessness is far more insidious. More like a doll which is forced into taking a space trip. My cosy fur turned coarse last winter, aerodynamics is out of the book. Limbs have applied for voluntary retirement. I am a far cry from my youth.
 
 Well, I am not old actually. A bit frustrated, you could say. I am still strong enough to lift an elephant. Just that my will is weak enough to let thoughts escape my ribcage. My rotten sternum isn’t that great a watchful protector anymore. What hurts more is the stories that escape my mind.
 

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Revenge of the Barbarians.
+image: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/red-dragon-contemporary-red-dark-abstract-painting-modern-art-prints.jpg'
+date: '2018-11-16 13:53:39'
+published: true
 ---
 It is of great use if History is not written by historians, but anthropologists. If not anthropologists entirely, the service of a few will definitely make the endeavour more productive and the end product acceptable to the wider public.
 

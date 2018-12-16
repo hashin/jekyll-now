@@ -7,7 +7,7 @@ date: '2018-08-11 22:35:39'
 published: true
 ---
 
-A sadhu - a fakir - was found dead under an old banyan tree. I found this note neatly curled up under his armpits. Here, I publish it for common good.
+A sadhu - a fakir - was found dead under an old banyan tree. I found this note neatly rolled up under his armpits. Here, I publish it for common good.
 
 ___
 

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Story of a song entangled in barbed wire fences.
+image: 'https://gnwebprensalibrerootwest.s3.us-west-2.amazonaws.com/mmediafiles/pl/79/79f155c3-7e83-48d4-9807-e07d288f8587_749_499.jpg'
+date: '2018-12-18 18:12:39'
+published: true
 ---
 In the morning, they found a song entangled in the barbed fence. As it wriggled and jiggled there, a thousand cold tungsten needles pierced her. A red fluid oozed out of her flawless brown skin, as people stood there with innocent curiosity, watching her struggle.
 
@@ -28,3 +32,5 @@ But slowly, she vanished into thin air. First she started to turn pale and they 
 The probes of the electrocardiogram hooked to her forehead was weeping in shame. Other probes stuck into her sweet body danced death for a while before they themselves fell dead into the blue hospital bed from where the song vanished as the bells tolled. God heaved a sigh, but the good zing people of gluzral made merry - quite oblivious to what life is and what it means to lose it.
 
 It was nearing dusk when the song vanished. As the sun’s rays thinned, gluzral slowly started its descent towards the mound. A stream of cold air gushed out of her bum as usual. The brittle bones of her neighbours creaked once again out of habit. This should go on forever.  
+
+

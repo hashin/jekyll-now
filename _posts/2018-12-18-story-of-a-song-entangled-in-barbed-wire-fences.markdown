@@ -34,4 +34,4 @@ The probes of the electrocardiogram hooked to her forehead was weeping in shame.
 
 It was nearing dusk when the song vanished. As the sun’s rays thinned, gluzral slowly started its descent towards the mound. A stream of cold air gushed out of her bum as usual. The brittle bones of her neighbours creaked once again out of habit. This should go on forever.
 
-*Inspired by the regrettable death of a 7-year old girl. My heart weeps for the thousands of different lines that divide humanity, most often accomapnied by egregious violence.*
+*Inspired by the regrettable death of a 7-year old girl. My heart weeps for the thousand different lines that divide humanity, most often accomapnied by egregious violence.*

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Books of 2019.
+image: 'link'
+date: '2019-01-02 22:15:59'
+published: true
 ---
 **A list of books that I have read in 2019.**
 

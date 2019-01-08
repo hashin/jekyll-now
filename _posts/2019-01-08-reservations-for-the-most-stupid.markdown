@@ -46,7 +46,7 @@ So you see, ~22% controls ~59% of power. Now tell me, is this equitable?
 
 ![](https://i.imgur.com/hWAasZt.jpg)
 
-Before you close, do educate yourselves that merit is [subjective](https://www.quora.com/What-if-anything-should-be-done-to-mitigate-the-downsides-of-meritocratic-systems/answer/Luka-Trkanjec). Even if you don't have patience for such longform articles, just enquire about the coaching fees, living expenses and opportunity costs required to spend prime years of your life in pursuit of clearing the civil services examinations. The same applies for fighting elections that require capital - social as well as economic. Will write about it another day!
+Before you close, do educate yourselves that merit is [subjective](https://www.quora.com/What-if-anything-should-be-done-to-mitigate-the-downsides-of-meritocratic-systems/answer/Luka-Trkanjec). Even if you don't have the patience for such longform articles, just enquire about the coaching fees, living expenses and opportunity costs required to spend prime years of your life in pursuit of clearing the civil services examinations. The same applies for fighting elections that require capital - social as well as economic. Will write about it another day!
 
 ![]({https://i.imgur.com/WSyuIPw.jpg)
 

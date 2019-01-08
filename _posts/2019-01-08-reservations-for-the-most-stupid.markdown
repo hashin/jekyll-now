@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Title.
+title:  Reservations for the most stupid.
 image: 'https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Ambedkar_Madhubani%203x2.jpg'
 date: '2019-01-08 10:59:21'
 published: true

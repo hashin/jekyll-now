@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Title.
+image: 'https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Ambedkar_Madhubani%203x2.jpg'
+date: '2019-01-08 10:59:21'
+published: true
 ---
 Of course, I am not arguing for reserving seats for the most stupid people! This is a very short guide to explaning reservations to the most stupid (and unfortunate) beings amongst us. Make use!
 

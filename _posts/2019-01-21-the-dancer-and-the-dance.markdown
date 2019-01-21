@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  The dancer and the dance.
+image: 'https://images.indianexpress.com/2019/01/dance-bars.jpg'
+date: '2019-01-21 12:42:39'
+published: true
 ---
 [This thought provoking article](https://indianexpress.com/article/opinion/columns/mumbai-dance-bars-supreme-court-judgment-5547572/) by Sameena Dalwai on Indian Express prompted me to write this piece. 
 

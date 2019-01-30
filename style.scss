@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $ForestGreen;
+  color: $green;
   font-weight: bold;
   text-decoration: none;
 	cursor: pointer;
@@ -234,7 +234,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $green;
     }
   }
 }

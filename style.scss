@@ -69,7 +69,8 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $linkGreen;
+	font-weight: bold;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -232,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $linkGreen;
     }
   }
 }

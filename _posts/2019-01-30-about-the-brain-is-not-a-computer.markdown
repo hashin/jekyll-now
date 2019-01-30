@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Brain is not a computer!
+image: 'https://img.huffingtonpost.com/asset/576d9e561a00002700ceb009.jpeg'
+date: '2019-01-30 08:57:21'
+published: true
 ---
 I found [this excellent article](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) on Aeon.
 

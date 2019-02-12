@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Of Data Democracy and beyond - Part 1.
+image: 'https://www.cartooningforpeace.org/wp-content/uploads/2016/10/BONIL-Equateur-2-e1476278771718.jpg'
+date: '2019-02-12 16:45:39'
+published: true
 ---
 Democracy derives its legitimacy from “will of the people”. If the people are deprived of real information, their ability to make suitable decisions is impaired. This renders Democracy meaningless.
 

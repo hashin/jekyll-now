@@ -11,9 +11,12 @@ In his blood do I see the face of enemy.<br/>
 But in his face, I see myself - my failure.
 
 He was not a soldier, an intellectual that he was.<br/>
-He read, he debated. The entire campus watched him speak.<br/>
-Ah, the charisma! The erudite scrutiny of a flawed national budget.<br/>
-His concern for the wretched slumdog. Of women raped in broad daylight.
+He read, he debated.<br/>
+The entire campus watched him speak.<br/>
+Ah, the charisma!<br/>
+The erudite scrutiny of a flawed national budget.<br/>
+His concern for the wretched slumdog.<br/>
+Of women raped in broad daylight.
 
 Do you know where soldiers come from?<br/>
 A mother’s womb; A father’s care.
@@ -76,15 +79,20 @@ And you’ll perhaps never understand.
 
 ![Do you know where soldiers come from?](https://combatart.files.wordpress.com/2012/06/reading.jpg)
 
-I teach algebra to his kids. I recite wordsworth while putting them to sleep;<br/>
-I make them read Proust. I invoke the wisdom of Nehru;<br/>
+I teach algebra to his kids.<br/>
+I recite wordsworth while putting them to sleep;<br/>
+I make them read Proust.<br/>
+I invoke the wisdom of Nehru;<br/>
 Sagacity of Gandhi; the spirit of an intrepid Subhas.<br/>
-I sing Khusru to placate them; preach Asoka to mollify their fights;<br/>
-Of Akbar to see the god; Of Mohan Roy to approach the books.<br/>
+I sing Khusru to placate them.<br/>
+Preach Asoka to mollify their fights;<br/>
+Of Akbar to see the god.<br/> 
+Of Mohan Roy to approach the books.<br/>
 All the giants on whose shoulders their father stood.<br/>
 And that father who didn’t fire pellet guns from that pulpit.
 
-Yes, a soldier is dead. But you will never know him enough to avenge him.<br/>
+Yes, a soldier is dead.<br/>
+But you will never know him enough to avenge him.<br/>
 And please, don’t drag him down to your intellect so callow.
 
 And I should ask once more!

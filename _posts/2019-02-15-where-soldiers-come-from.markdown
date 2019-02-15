@@ -6,13 +6,13 @@ date: '2019-02-15 17:23:39'
 published: true
 ---
 
-Passionate warcries to cover up a brother’s death.\
-In his blood do I see the face of enemy.\
+Passionate warcries to cover up a brother’s death.<br/> 
+In his blood do I see the face of enemy.<br/>
 But in his face, I see myself - my failure.
 
-He was not a soldier, an intellectual that he was.\
-He read, he debated. The entire campus watched him speak.\
-Ah, the charisma! The erudite scrutiny of a flawed national budget.\
+He was not a soldier, an intellectual that he was.<br/>
+He read, he debated. The entire campus watched him speak.<br/>
+Ah, the charisma! The erudite scrutiny of a flawed national budget.<br/>
 His concern for the wretched slumdog. Of women raped in broad daylight.
 
 Do you know where soldiers come from?\

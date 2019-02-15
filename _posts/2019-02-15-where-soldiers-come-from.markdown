@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title:  Do you know where soldiers come from?
+image: 'https://combatart.files.wordpress.com/2012/06/reading.jpg'
+date: '2019-02-15 17:23:39'
+published: true
 ---
+
 Passionate warcries to cover up a brother’s death.
 In his blood do I see the face of enemy.
 But in his face, I see myself - my failure.

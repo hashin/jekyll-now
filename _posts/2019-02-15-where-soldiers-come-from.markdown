@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Do you know where soldiers come from?
+title: Do you know where soldiers come from?
 image: 'https://combatart.files.wordpress.com/2012/06/reading.jpg'
 date: '2019-02-15 17:23:39'
 published: true
@@ -74,6 +74,8 @@ Always at haste to sacrifice himself at a moment’s notice.
 No, a soldier is much more than that. 
 And you’ll perhaps never understand.
 
+![Do you know where soldiers come from?](https://combatart.files.wordpress.com/2012/06/reading.jpg)
+
 I teach algebra to his kids. I recite wordsworth while putting them to sleep;
 I make them read Proust. I invoke the wisdom of Nehru;
 Sagacity of Gandhi; the spirit of an intrepid Subhas.
@@ -92,6 +94,3 @@ A Mother’s womb; A father’s care.
 Do you know where they go when they die?
 Neurotic glass cages in your petty minds.
 And that is the real tragedy.
-
-
-

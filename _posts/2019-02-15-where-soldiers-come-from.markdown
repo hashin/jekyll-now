@@ -73,7 +73,7 @@ To his desire to serve and better the lives of his brethren.
 
 If there is some heaven out there, he’d be chuckling at your ineptitude.<br/>
 This petty minds of yours where he’s an inane killer,<br/>
-Always at haste to sacrifice himself at a moment’s notice.<br/>
+A lamb, always at haste to sacrifice himself at a moment’s notice.<br/>
 No, a soldier is much more than that.<br/>
 And you’ll perhaps never understand.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Feminism and Science.
+title: Feminism and Science.
 image: 'https://i.pinimg.com/originals/ac/3b/a8/ac3ba881972b8e6acc9f5806e4cc3f7f.jpg'
 date: '2019-03-02 08:13:39'
 published: true
@@ -21,5 +21,4 @@ Also we should stop seeing science as being done by some gifted genius. We do ar
 
 So this makes a compelling issue to take up in the broader policy making realm on science. Along with increasing diversity in the scientific community, we should make sure that a healthy influx of people trained in social sciences are mandated. While there is no question about policy having an overarching influence on doing science, such insights that trained eyes bring shouldn't be neglected.
 
-With this, we should aim for a synergy of social science insights in the way we do science. Also, it could be incorporated through discussion and scientific fact-checking. This sure will augment our results rather than bringing some sort of bias as detractors claim. More perspectives enrich us, science should be confident about this.
-
+With this, we should aim for a synergy of social science insights in the way we do science. Also, it could be incorporated through discussion and scientific fact-checking. This sure will augment our results rather than bring in some sort of bias as detractors claim. More perspectives enrich us, science should be confident about this.

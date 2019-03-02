@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Feminism and Science.
+image: 'https://i.pinimg.com/originals/ac/3b/a8/ac3ba881972b8e6acc9f5806e4cc3f7f.jpg'
+date: '2019-03-02 08:13:39'
+published: true
 ---
 It is tempting to look at [feminism](https://en.wikipedia.org/wiki/Feminism) as a social movement based on a social science construct - [the feminist theory.](https://en.wikipedia.org/wiki/Feminist_theory) But it is much more than that. It has a well defined utility of making science more objective and more inclusive, among other things. I have heard more than once of why such influences may bring in biases to the way we do science. I am inclined to reject this viewpoint.
 

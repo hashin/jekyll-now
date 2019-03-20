@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  And then we spoke in the tongues that chose us.
+image: 'https://images.indianexpress.com/2017/08/divya-goyal-image-759.jpg'
+date: '2019-03-21 00:25:39'
+published: true
 ---
 So here I am, speaking the tongue of my coloniser. A coloniser who would just mimic the polity of that time, albeit improvising a bit - all the time struggling to hide a smirk while he slowly, but steadily undone the dignity of my so called motherland. The motherland, for certain was divided. And as divided as she was, and her sons certified philanderers, a misled ruling class with grossly misplaced priorities - was a sitting duck for the coloniser ever in a reconnaissance mode.
 

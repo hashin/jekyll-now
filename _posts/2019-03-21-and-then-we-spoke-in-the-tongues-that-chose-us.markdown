@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  And then we spoke in the tongues that chose us.
+title: And then we spoke in the tongues that chose us.
 image: 'https://images.indianexpress.com/2017/08/divya-goyal-image-759.jpg'
 date: '2019-03-21 00:25:39'
 published: true
 ---
-So here I am, speaking the tongue of my coloniser. A coloniser who would just mimic the polity of that time, albeit improvising a bit - all the time struggling to hide a smirk while he slowly, but steadily undone the dignity of my so called motherland. The motherland, for certain was divided. And as divided as she was, and her sons certified philanderers, a misled ruling class with grossly misplaced priorities - was a sitting duck for the coloniser ever in a reconnaissance mode.
+So here I am, speaking the tongue of my coloniser. A coloniser who would just mimic the polity of that time, albeit improvising a bit - all the while struggling to hide a smirk while he slowly, but steadily, undone the dignity of my so called motherland. The motherland, for certain was divided. And as divided as she was, and her sons certified philanderers, a misled ruling class with grossly misplaced priorities - was a sitting duck for the coloniser ever in a reconnaissance mode.
 
-See, the laissez-faire was a system fair to the ones who advocated it. And also, there is a visceral charm to this proposition - a system where you could afford to rise with just the ‘streanh’ of your guts. If Robert Clive, the motley clerk of humble origins could climb up the corporate ladder, metamorphose into a consummate general and proceed to buy seats in the British parliament, any tom, dick and harry - including the illiterate cobbler’s son could afford to do so! Such was the tempting scent of this meritocracy that when the call of duty came, even the rajas would form the backwaters that would collect the storm and ornate treachery in the pristine stretches of a great empire.
+See, the laissez-faire was a system fair to the ones who advocated it. And also, there is a visceral charm to this proposition - a system where you could afford to rise with just the ‘streanh’ of your guts. If Robert Clive, the motley clerk of humble origins could climb up the corporate ladder and metamorphose into a consummate general and proceed to buy seats in the British parliament, any tom, dick and harry - including the illiterate cobbler’s son - could afford to do so! Such was the tempting scent of this meritocracy that when the call of duty came, even the rajas would form the backwaters that would collect the storm and ornate treachery in the pristine stretches of a great empire.
 
 Oh, how the bankers conspired to get Siraj decorticated. Once could easily blame the incompetence of a tarpaulin that chose to fly with the west wind. And of a nourishing monsoon - long powered the Arabs - but would wreak havoc on the armies of Nawab - would then simply refuse to rain after two decades - killing millions in the fabled famine of 1770s. All these; while, the Rajas where busy drinking and whoring away in the dungeons of their own making. Oh, these Rajas would later be neatly cleaved into Hindavi Rajas and Moslem Nawabs by later day historians - but to my discerning mind, albeit a bit inebriated by drinking from the deep well of India’s cultural past - many a Rajasaureses will keep tucking their head out from the graveyards where hundred thousand Indians were killed for being born in a particular religion.
 
@@ -23,15 +23,4 @@ Yes yes, across the Himalayas, perhaps a natural border, are men and women with 
 
 As the children of the same god rotting day by day, no man from the Twitter-land will alight as a champion of this emaciated kid. Perhaps a god’s own land will be erected in this soil tired by the ceaseless exhortations, but the faithful shall line up and march to the sacrificial altars as lambs with tridents - of Chinese plastic, for all of patriotism should be perfectly blended with pragmatism of the age.
 
-Oh, I am still speaking in my colonisers’ tongue. I don’t really care. Neither should you. For whole of this world belongs to me; as a man, a woman and as a child - all rolled into one. This voice will fade and die for sure, but my grief shall permeate your soul and penetrate the sanctum sanctorum of your sacred nation - if not a nation a mohalla, a taluka perhaps. But you see this - a human shall never be left to die. For if even one death cannot be atoned, think about the thousand broken souls that will rain upon you tonight. And how their shredded viscera will engulf your mawkish cries. And that is when the spittle missile shall go one whole round across the globe and fall right on the top of your head. 
-
-
-
-
-
-
-
-
-
-
-
+Oh, I am still speaking in my colonisers’ tongue. I don’t really care. Neither should you. For whole of this world belongs to me; as a man, a woman and as a child - all rolled into one. This voice will fade and die for sure, but my grief shall permeate your soul and penetrate the sanctum sanctorum of your sacred nation - if not a nation a mohalla, a taluka perhaps. But you see this - a human shall never be left to die. For if even one death cannot be atoned, think about the thousand broken souls that will rain upon you tonight. And how their shredded viscera will engulf your mawkish cries. And that is when the spittle missile shall go one whole round across the globe and fall right on the top of your head.

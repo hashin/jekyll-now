@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And then we spoke in the tongues that chose us.
+title: And then we spoke in tongues that chose us.
 image: 'https://images.indianexpress.com/2017/08/divya-goyal-image-759.jpg'
 date: '2019-03-21 00:25:39'
 published: true

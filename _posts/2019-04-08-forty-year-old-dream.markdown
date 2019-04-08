@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Forty year old dream.
+image: 'https://cdn.shopify.com/s/files/1/2150/3391/products/Milada_3_2048x.jpg'
+date: '2019-04-08 10:32:21'
+published: true
 ---
 She walked straight into my room. This was strange, not because of the act itself, but the time and place where she chose to do so. I have lived in many rooms across the country. Rooms with or without doors. Rooms with or without furnitures that made noise, which people mistook for lamentation. Dark rooms and well lit, well ventilated rooms. But this room was different. It was a hostel room in the medical college where I was doing my internship.
 

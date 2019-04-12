@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Looking beyond the Black hole.
+image: 'https://news.harvard.edu/wp-content/uploads/2019/04/eso1907a.jpg'
+date: '2019-04-12 09:29:39'
+published: true
 ---
 We are celebrating the release of a breakthrough image. One of the most shared images on internet already, the ‘unseeable’ black hole is a real sensation. But contrary to popular perception, it is not an instance of path breaking science. Rather, it is the outcome of a concerted scientific campaign, brilliantly supported by a management team that brought about cooperation.
 

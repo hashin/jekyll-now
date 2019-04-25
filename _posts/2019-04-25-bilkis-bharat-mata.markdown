@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Bilkis, Bharat Mata.
+image: 'https://img.theweek.in/content/dam/week/news/india/2017/may/bilkis-bano-new-pti.jpg'
+date: '2019-04-25 08:23:39'
+published: true
 ---
 When I hear the word “Bharat Mata”, only one face comes to my mind. It is the face of Bilkis Bano, who was brutally attacked, tormented and left to die by a mob fuelled with hatred. 14 members of her family, including her two year old child was killed in front of her. She was the worst victim of a communal riot - a woman, a mother, a piece of meat to those bigots.
 

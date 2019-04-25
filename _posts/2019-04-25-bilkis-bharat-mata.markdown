@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Bilkis, Bharat Mata.
-image: 'https://img.theweek.in/content/dam/week/news/india/2017/may/bilkis-bano-new-pti.jpg'
+title: 'Bilkis, Bharat Mata.'
+image: >-
+  https://img.theweek.in/content/dam/week/news/india/2017/may/bilkis-bano-new-pti.jpg
 date: '2019-04-25 08:23:39'
 published: true
 ---
@@ -25,4 +26,4 @@ Bilkis, you go girl! The nation is cheering for you. You have our hearts, and ou
 
 With whole of my heart, do I say - “Bharat Mata Ki Jai”. This perennial slogan accretes yet another meaning. Bilkis is Bharat Mata. Bharat Mata Ki Jai!
 
-
+Footnote: While reviewing a movie (Kaala), I had written about the oft neglected role of a supportive family in the fight of subaltern against oppressive power structures. Bilkis' family, especially her husband, who stood firm by her is the real life testimony of such family values. Even when the media and pop culture has endlessly regurgigated the image of a shunned victim, _bahujan_ across the country has always stood by and protected the weak and exploited amognst us. Our strong family values doesn't necessarily conform to the ideals of a sanatanists/puritan Islamist values (which unsurprisingly align with eachother!). Challenging oppressive social structures cannot happen without the active support of family. This is why Thanthai Periyar concentrated on the need for self respect marriages and Ambedkar argued in favour of       

@@ -14,7 +14,7 @@ Her fight was epic, for her fight was against an entire system subverted. This s
 
 To that effect, Bombay high court observes in 2017 - _“All the acts of omission and commission of the police and medical officers cannot be examined in isolation but they are well connected with each other in a chain of suppression of facts causing disappearance of evidence with intent to screen the offenders and save them from punishment.”_
 
-If this isn't **systematic persecution**, I don't know what it is. But she fought back. The nation, its people and the judiciary stood by her.
+If this isn't **systematic persecution**, I don't know what is. But she fought back. The nation, its people and the judiciary stood by her.
 
 We don't treat our women well. From partition to the many riots that followed, they bore the brunt. Most of our religions treat them badly. Bharat Mata personifies the fight against this system. What better face can she get than that of Bilkis? She is a woman who spent better part of her life, fighting against systematic persecution, fuelled with communal hatred. **Bilkis is Bharat Mata!**
 

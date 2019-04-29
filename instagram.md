@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instagram Posts.
+title: Click on the image below.
 permalink: /instagram/
 published: true
 ---

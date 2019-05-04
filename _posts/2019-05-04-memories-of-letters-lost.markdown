@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Memories of letters lost.
-image: 'https://c.pxhere.com/photos/0c/6e/tree_carved_face_person_symbol_engraved_eingeritzter_tree_tree_bark-994249.jpg!d'
+title: Memories of letters lost.
+image: >-
+  https://c.pxhere.com/photos/0c/6e/tree_carved_face_person_symbol_engraved_eingeritzter_tree_tree_bark-994249.jpg!d
 date: '2019-05-04 15:12:24'
 published: true
 ---
 I ate a bit too much. I knew it, the breakfast has breached the threshold of contentment. There is no going back. There isn’t much that I can do about it now. 
 
-This morning is quite atypical of a summer day in Trivandrum. Just a few days ago, I sat at this table, sweltering under an unkind summer ceiling fan. Whenever I look at the ceiling fan, I see a shape shifting beauty of quotidian ignorance. In winter, he could be seen silently humming above me. I would lay clothed in my bed, face up and neck deep in a book or two, as the silent ceiling fan gives out a lull, a mourn. The unassuming ceiling fan metamorphose into a buoy that keeps me tethered to this world. This was in stark contrast to the noisy summer ceiling fan that constantly reminded me of this reckless, unkind world.  
+This morning is quite atypical of a summer day in Trivandrum. Just a few days ago, I sat at this table, sweltering under an unkind summer ceiling fan. Whenever I look at the ceiling fan, I see a shape shifting beauty of quotidian ignorance. In winter, he could be seen silently humming above me. I would lay clothed in my bed, face up and neck deep in a book or two, as the silent ceiling fan gives out a lull, a mourn. The unassuming ceiling fan metamorphose into a buoy that keeps me tethered to this world. This was in stark contrast to the noisy summer ceiling fan that constantly reminded me of this reckless, unkind world. These fans kept rotating between my past, present and future, connecting them together. 
 
 As a kid, I was afraid of the macabre associated with books. Not any genre in particular, but them in general. From those slender books meant for me to the tomes that took up the topmost rows of my mother’s wooden cabinet. There were no rules, but the most recondite prose was intensely lusted after and raised more awe. I had the keys to those shelves and all the time in the world. I would keep on reading till I grew enervated and afraid. Enervated for the kid couldn’t afford to lie down for hours with stars growing on his back. Stars that flowered along wedges created on my back by the accidental pleats on a bed sheet. Some days, it would be the wooden settee with my flesh sliding into its cracks after a couple of hours. When it starts to hurt, I might shift myself into the golden yellow diwan beside the settee. The diwan cot boasted a salubrious short winged ceiling fan right above it. It was capable of giving out a gush of wind, which normal ceiling fans could only dream of. This would give a pass to the enervation rising out of my ceaseless reading. But not soon after, fear takes over.
 
@@ -47,4 +48,3 @@ Then I went on to complete Knausgaard’s article. Many images flashed in front 
 
 
 [You can read "The Terrible Beauty of Brain Surgery" here.](https://www.nytimes.com/2016/01/03/magazine/karl-ove-knausgaard-on-the-terrible-beauty-of-brain-surgery.html?_r=0)
-

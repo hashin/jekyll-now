@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Memories of letters lost.
+image: 'https://c.pxhere.com/photos/0c/6e/tree_carved_face_person_symbol_engraved_eingeritzter_tree_tree_bark-994249.jpg!d'
+date: '2019-05-04 15:12:24'
+published: true
 ---
 I ate a bit too much. I knew it, the breakfast has breached the threshold of contentment. There is no going back. There isn’t much that I can do about it now. 
 

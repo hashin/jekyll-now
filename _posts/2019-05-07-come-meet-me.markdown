@@ -3,7 +3,7 @@ layout: post
 title:  Come, meet me.
 image: 'link'
 date: '2019-05-07 15:12:39'
-published: false
+published: true
 ---
 
 What happens to milestones that are dead?

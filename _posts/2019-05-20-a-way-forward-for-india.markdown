@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A way forward for India.
+title: A way forward for India.
 image: 'https://imgc.artprintimages.com/img/print/gandhi-i-am-love_u-l-f8gkdd0.jpg'
 date: '2019-05-20 11:55:09'
 published: true
@@ -53,7 +53,7 @@ From here, we should see the path forward. It is in aligning ourselves with civi
 
 Populists love chaos, for it misleads people. But as conventional wisdom goes, nobody could be mislead forever. Even through repeated lies, truth will make its appearance and no society could be deprived of its right share of “seekers”. All in all, Truth finds its way - what we ought to do is create pathways for it to move around and circulate - this is the power of Truth that Gandhi and others talked about. This is the Satyagraha of our times. 
 
-It is easy to scoff at the doctrine of nonviolence. But that it is an epistemological necessity for progress is what Gandhi taught us through his life’s work. He might have been a fallible individual, but his true legacy is in understanding this vital link and communicating it to us. Truth and nonviolence are nothing but two sides of the same coin. And this coin has value because it is supported by the social contract of free expression.
+It is easy to scoff at the doctrine of nonviolence. But that nonviolence is an epistemological necessity for progress is what Gandhi taught us through his life’s work. He might have been a fallible individual, but his true legacy is in understanding this vital link and communicating it to us. Truth and nonviolence are nothing but two sides of the same coin. And this coin has value because it is supported by the social contract of free expression.
 
 To suppress dissent is to exercise violence. Suppression of dissent is a dishonest activity. It mars truth and the price is paid by the entire society. This explains how violence and dishonesty is inseparable. Even to the most “just” causes, violence is untenable. This is because you cannot sustain violence without certain amount of dishonesty. Look at the history of innumerable wars fought and you’ll realise this instantly. What soldiers are made to do isn’t what their nations actually are. It could never be. This duplicity, this doublespeak, inherent to foreign policy is what Gandhi deconstructed. In his exposition of the doctrine of nonviolence, he makes clear why Truth is at the centre of his ideas.
 

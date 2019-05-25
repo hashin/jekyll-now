@@ -12,7 +12,7 @@ _Trivandrum._
 
 My dearest Tara,	
 
-I saw your eyes today. And I saw pain. In them, was a sea of sorrows that you’ll never share with anyone. I am elated to see that you are with someone who can potentially make you happy. I sincerely hope that you are indeed happy! But to my mind’s compass which is painfully accurate at times, your eyes tell a different story.
+I saw your eyes today. Don't ask me how. In them, was a sea of sorrows that you’ll never share with anyone. I am elated to see that you are with someone who can potentially make you happy. I sincerely hope that you are indeed happy! But to my mind’s compass which is painfully accurate at times, your eyes tell a different story.
 
 I sometimes wonder of how we could be so close, yet so far away. It could very well be me hallucinating, but if we could have such powerful effect on eachother (not necessarily positive, as you have rightly inferred), is it wise to abandon each other? After all, what were the odds of us meeting and bringing about this tribulations unto ourselves? Maybe you are unperturbed, unlike me. But if my mind is to be at peace, I should write this letter to you. Ostensibly, a ‘love letter’ written by someone who is forever damned by this pestilence that is love.  
 

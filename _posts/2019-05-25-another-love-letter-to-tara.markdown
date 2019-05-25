@@ -4,10 +4,9 @@ title:  Another love letter to Tara.
 image: 'https://i.etsystatic.com/5595954/r/il/9390f6/992970530/il_794xN.992970530_ab82.jpg'
 date: '2019-05-25 22:09:53'
 published: true
----
-
-__Trivandrum,
-__25-05-2019.
+---  
+_25-05-2019_  
+_Trivandrum,_  
 
 My dearest Tara,	
 

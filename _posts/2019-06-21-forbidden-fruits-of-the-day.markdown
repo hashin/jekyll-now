@@ -1,7 +1,12 @@
 ---
-published: false
+layout: post
+title:  Forbidded fruits of the day.
+image: 'https://countercurrents.org/wp-content/uploads/2019/06/muzaffarpur.jpg'
+date: '2019-06-21 19:59:39'
+published: true
 ---
-Litchi is sweet; it kills children.  
+
+Litchis are sweet; they kill children.  
 AES they said.  
 Encephalopathy - said learned doctors.  
 An ounce of dextrose in time,  

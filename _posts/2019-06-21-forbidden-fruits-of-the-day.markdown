@@ -12,7 +12,8 @@ Encephalopathy - said learned doctors.
 An ounce of dextrose in time,  
 Would have saved them.  
 Glucose worth half a rupee.  
-No, not available. Hundreds dead.  
+No, not available.  
+A thousand flowers whitered.  
   
 Poor kids ate the forbidden fruit.  
 They didn’t fall from heaven, But.  
@@ -21,7 +22,7 @@ A comfy descent from this hell.
 Serendipity.  
   
 Parents picking up dead children,  
-Ah, Spiritual! Swachh!  
+Ah, Spiritual! Ah, Swachh!  
 Joints frozen, fruits will never be picked up.  
 Only litchi and no food at night,  
 Their livers stopped working;  
@@ -50,10 +51,13 @@ All from eating fallen litchis.
 And not eating anything else, at all.  
 For us, litchis in milkshakes and cocktails.  
 These children that one rupee could have saved.  
-But alas, Hunger is not a problem.  
+A cigerrete is fifteen bucks.  
+I smoke many children at once, nice.  
+  
+You should know, hunger is not a problem.  
 Lost glory of religion is.  
 A god unable to find his home is.  
-A neighbour’s facial hair is;  
+My neighbour’s facial hair is;  
 What he eats is.  
   
 So, we vote.  

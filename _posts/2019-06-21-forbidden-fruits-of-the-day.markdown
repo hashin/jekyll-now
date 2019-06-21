@@ -13,8 +13,8 @@ An ounce of dextrose in time,
 Would have saved them.  
 Glucose worth half a rupee.  
 No, not available.  
-A thousand flowers whitered.  
-  
+A thousand flowers whitered.
+
 Poor kids ate the forbidden fruit.  
 They didn’t fall from heaven, But.  
 They fell into a coma;  

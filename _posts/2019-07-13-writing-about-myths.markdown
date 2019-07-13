@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Writing about myths.
+title: Writing about myths.
 image: 'https://cdn4.picryl.com/photo/1931/01/01/human-sacrifice-before-tohil-1600.jpg'
 date: '2019-07-13 20:52:44'
 published: true
@@ -26,6 +26,6 @@ Then, once we have movies and other mediums of mass media, it is easy to see how
 
 Coming back, this is an extremely poorly written article. I am not into creating myths here. As I have written once, it is futile. [Here](https://www.quora.com/Should-we-change-the-old-age-tales-of-rescuing-the-princess-with-new-thoughts-of-equality/answer/Hashin-Jithu). But we could always try bringing in more social change. I was having a conversation with Tara today, which prompted me to write all these. My apologies for the poorly thought out and an unedited article. But I am sure that the initiated reader will take something away from this.
 
-The world is no easy place, we should keep looking around. At least till we start seeing stuff. Let’s talk about all these, just drop me a line. 
+The world is no easy place, we should keep looking around. At least till we start seeing stuff. Let’s talk about all these, just drop me a line.
 
-
+![Source : https://cdn4.picryl.com/photo/1931/01/01/human-sacrifice-before-tohil-1600.jpg](https://cdn4.picryl.com/photo/1931/01/01/human-sacrifice-before-tohil-1600.jpg)

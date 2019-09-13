@@ -15,7 +15,7 @@ I am utterly disappointed at my sheer inability to let her go. This should have 
 
 I see a bindi that she has stuck to my bed pole. Another one on my copy of “The Constitution of India”; yet another is winking at me from the mirror. 
 
-This room is filled with her memories. From my round comb smelling sweet after her to the green brush in my washroom. She is everywhere. During her brief stay in my life, everything attached to me has metamorphosed into an iron girdle over my head. It seems as if there is no end to this - I should be running away from her - from all this. This might be a futile attempt to outrun her - to leave before she does. But I will be defeated - she has departed already and this is no competition. This is life. 
+This room is filled with her memories. From my round comb smelling sweet after her to the green brush in my washroom. She is everywhere. During her brief stay in my life, everything attached to me has metamorphosed into an iron girdle over my head. It seems as if there is no end to this - I should be running away from her - from all of these. This might be a futile attempt to outrun her - to leave before she does. But I will be defeated - she has departed already and this is no competition. This is life. 
 
 I look at the person in the mirror and I cannot recognize him. He was dissolved in the background as I was looking at her red bindi stuck on my mirror. But now he has come to life. I barely know the man I am seeing. But undoubtedly, this is the person that I am right now. I have aged greatly in the last ten days, with pounds of flesh hanging from my chest, sagged eyes and cheeks devoid of love. I tried to recall my reflection in the hundred thousand mirrors I have seen myself before.
 

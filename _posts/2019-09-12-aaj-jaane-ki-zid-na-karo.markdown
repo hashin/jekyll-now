@@ -11,7 +11,7 @@ Tonight is particularly melancholic. Here I am, listening to Farid Khanum slowly
 
 As I led my eyes through the contours of this room, they get stuck at a coil of hair that lies on the floor. It was Tara’s! There is no escaping from her memories, I curse. Tara has made a decision to leave me for the better. I wouldn’t complain though. She is knowledgeable enough to make the right choice for her. The only person I am disappointed with is myself, who is still sitting across the door, blocking her way. At some point of time, I thought it would be easier for me to handle situations like these. Turns out, when she decided to leave, I was shattered. Shattered like a vase hitting a floor; car window panes on a speeding truck; a dead bat splattered on a windmill. I stood no chance. I just melted. 
 
-I am utterly disappointed at my sheer inability to let her go. This should have been easier. But the turn of events was a bit too fast for me. So here I am, in a limbo, listening to old songs and wondering about the hundred different ways this could have gone wrong. But this is it, the shape of my shadow falling on the bed sheet. A bit distorted, but still mine.
+I am utterly disappointed at my sheer inability to let her go. This should have been easier. But the turn of events was a bit too fast for me. So here I am, in a limbo, listening to old songs and wondering about the hundred different ways this could have gone wrong. But this is it, the shape of my shadow falling on a bed sheet. A bit distorted, but still mine.
 
 I see a bindi that she has stuck to my bed pole. Another one on my copy of “The Constitution of India”; yet another is winking at me from the mirror. 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waiting for the bluebird.
+title: Meeting bluebird.
 image: 'https://cdn.pixabay.com/photo/2017/08/06/05/40/blue-2589164_1280.jpg'
 date: '2019-09-28 21:35:39'
 published: true

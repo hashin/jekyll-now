@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title:  The love letters I wrote.
+image: 'https://i.pinimg.com/originals/7a/14/34/7a143402219383c78fdd55a5f591ec15.jpg'
+date: '2019-12-11 21:24:39'
+published: true
 ---
+
 Perhaps the greatest dilemma a writer faces is on when a story should be written down. Sure, you may come across a great story every now and then. But you don’t know of when you should put it down somewhere. Is it when the story has begun to take shape? Or is it when the story looks a bit more interesting when illuminated under the experiences of the author? Or is it when it has become totally unbearable to hold on to the story?
 
 This might be the question that Garbriel Garzia Marquez was trying to find in this book one hundred years of solitude. It talks about a story that escapes the author through her ears. Once outside, it hides inside a shoes and then goes to places. If the author is looking at her work as her children, wouldn’t she be concerned about the fate of her stories? If you ask me, I think this is where authors diverge. Some seem to not care about her work as soon as it has left her. Some are grossly obsessed, rewriting their work again and again for years. Where to stand is a conscious choice. But as I am writing this, I am thinking in terms of love letters.

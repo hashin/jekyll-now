@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Love letters I wrote.
+image: 'https://i.imgur.com/ddcaUFw.jpg'
+date: '2019-12-14 10:51:39'
+published: true
 ---
 Perhaps the greatest dilemma a writer faces is on when a story should be written down. Sure, you may come across a great story every now and then. But you don’t know of when you should put it down somewhere. Is it when the story has begun to take shape? Or is it when the story looks a bit more interesting when illuminated under the experiences of the author? Or is it when it has become totally unbearable to hold on to the story?
 

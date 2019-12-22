@@ -5,7 +5,7 @@ permalink: /instagram/
 published: true
 ---
 
-<a href="htthttp://blog.hashin.me/2019/12/14/love-letters-i-wrote/" target="_blank">![The love letters I wrote](https://i.imgur.com/ddcaUFw.jpg)</a>
+<a href="http://blog.hashin.me/2019/12/14/love-letters-i-wrote/" target="_blank">![The love letters I wrote](https://i.imgur.com/ddcaUFw.jpg)</a>
 
 
 <a href="http://blog.hashin.me/2019/05/14/killing-a-small-sparrow/" target="_blank">![Killing a small sparrow.](https://upload.wikimedia.org/wikipedia/commons/d/d1/Media%2C_Babylon_and_Persia_-_including_a_study_of_the_Zend-Avesta_or_religion_of_Zoroaster%2C_from_the_fall_of_Nineveh_to_the_Persian_war_%281889%29_%2814801017893%29.jpg)</a>

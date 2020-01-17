@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Obituary to Prof. Lilavati.
+title:  An Obituary to Prof. Lilavati.
 image: 'https://cdn.pixabay.com/photo/2014/04/03/10/54/lady-311672_960_720.png'
 date: '2020-01-17 21:20:39'
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A short history of dead babies walking.
-image: 'https://live.staticflickr.com/2838/33362733400_2e6bda523a_b.jpg'
+image: 'https://i.imgur.com/s78Ff15_d.jpg?maxwidth=640&shape=thumb&fidelity=medium'
 date: '2020-03-28 22:51:39'
 published: true
 ---

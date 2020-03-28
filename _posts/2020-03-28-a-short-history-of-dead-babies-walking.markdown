@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  A short history of dead babies walking.
+image: 'https://live.staticflickr.com/2838/33362733400_2e6bda523a_b.jpg'
+date: '2020-03-28 22:51:39'
+published: true
 ---
 For dead babies to walk, they have to die first. Perhaps, that is the most difficult part of this short history. In order to write this, some babies had to die. Now, it was not my wish to have them dead. If you are reading the world these days, you probably know - the real reason behind their deaths doesn’t actually matter. Like any responsible historian, I will just gloss over - what’s the point anyway?
 

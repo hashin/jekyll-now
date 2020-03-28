@@ -40,6 +40,6 @@ Then there were migrant labourers. We always took them for granted. They were di
 
 We always knew that the pestilence that consumed our children was just a reason. No scourge was big enough to wipe us off the surface of this earth - we were cocksure. This was a bit more about that - it hit us where it hurt. It took away our babies. The worst part wasn’t losing the babies, it was in knowing that they enjoyed going away. But we refused to change. That’s pretty much when we saw the dead babies walking. 
 
-But what made them walk?
+But how do you explain this? We had to wait before we could find out...
 
 [To be Continued…]

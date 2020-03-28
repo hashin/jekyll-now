@@ -4,6 +4,7 @@ title: Click on the image below.
 permalink: /instagram/
 published: true
 ---
+<a href="http://blog.hashin.me/2020/03/28/a-short-history-of-dead-babies-walking/" target="_blank">![A short history of dead babies walking](https://i.imgur.com/s78Ff15_d.jpg)</a>
 
 <a href="http://blog.hashin.me/2019/12/14/love-letters-i-wrote/" target="_blank">![The love letters I wrote](https://i.imgur.com/ddcaUFw.jpg)</a>
 

@@ -6,7 +6,7 @@ date: '2020-04-09 20:05:39'
 published: true
 ---
 
-സാഗറിന്റെ കത്തുകളിൽ ബാക്കിയായ ഒരെണ്ണം. 
+സാഗറിന്റെ കത്തുകളിൽ ബാക്കിയായ ഒന്ന്. 
 
 ![One](https://i.imgur.com/d1AyJKq.jpg)
 ![Two](https://i.imgur.com/MXtCshd.jpg)

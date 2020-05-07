@@ -4,6 +4,8 @@ title: Click on the image below.
 permalink: /instagram/
 published: true
 ---
+<a href="http://blog.hashin.me/2020/05/07/india-intellectual-project/" target="_blank">![India is an intellectual project too. It must be protected.](https://cdn.pixabay.com/photo/2015/02/27/22/28/india-652857_1280.png)</a>
+
 <a href="http://blog.hashin.me/2020/03/28/a-short-history-of-dead-babies-walking/" target="_blank">![A short history of dead babies walking](https://live.staticflickr.com/2838/33362733400_2e6bda523a_b.jpg)</a>
 
 <a href="http://blog.hashin.me/2019/12/14/love-letters-i-wrote/" target="_blank">![The love letters I wrote](https://i.imgur.com/ddcaUFw.jpg)</a>

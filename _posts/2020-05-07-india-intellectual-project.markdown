@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  India is an intellectual project too. It must be protected.
+image: 'https://cdn.pixabay.com/photo/2015/02/27/22/28/india-652857_1280.png'
+date: '2020-05-07 18:51:39'
+published: true
 ---
 Nation states often find themselves in a great dilemma. This dilemma stems from the fact that more often, there is a wide gulf between its origin myths and the real circumstances under which they were born. I am not saying that all nation states indulge in deception to instill a sense of patriotism in its populace. But some of them certainly do - especially the ones insecure about themselves.
 

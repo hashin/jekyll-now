@@ -9,7 +9,7 @@ So these are the thoughts for the day.*
 
 ### Dark personalities are the norm in politics, it is better to admit it than regret later.
 
-I was reading about Boris Johnson’s chief adviser Dominic Cummings and his wide ranging interests. About the eclectic blog posts that he writes and the breadth and depth of his knowledge. Despite all this, he fought an “uncivil” war front front, driving a deep wedge between different segments of British society. So clearly, “knowledge level” of someone is no guarantee of a better, more civil conduct when it comes to politics and its machinations to acquire power. A Democratic society should be wary of creating “powerful” people.
+I was reading about Boris Johnson’s chief adviser Dominic Cummings and his wide ranging interests. About the eclectic blog posts that he writes and the breadth and depth of his knowledge. Despite all this, he fought an “uncivil” war from front, driving a deep wedge between different segments of British society. So clearly, “knowledge level” of someone is no guarantee of a better, more civilised conduct when it comes to politics and its machinations to acquire power. A Democratic society should be wary of creating “powerful” people.
 
 For a civilised society, strong men and women are not the ones who sport a 56”. No man or woman is a match to the power that the state holds. But what makes the state powerful is its institutions. So if you are looking for a strong leader, it should be someone who nurtures these institutions - not someone who demolishes them to enhance his/her personal power. If history teaches us anything, this very behaviour ultimately leads to their downfall. Sometimes taking the entire realm as they go down.
 
@@ -17,6 +17,8 @@ For a civilised society, strong men and women are not the ones who sport a 56”
 Before you go forward, here's an image to set the mood (work by an artist named [Dhruvi Acharya](https://www.instagram.com/dhruviacharya/?hl=en) ):
 
 ![](https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg)
+
+<hr>
 
 ### Climate skeptic is a kind word, don’t use it.
 
@@ -29,6 +31,9 @@ We had Dinosaurs going extinct much before Mammoths did, so were our poor primat
 Think about the acrid air in Delhi and polluted rivers in Varanasi. Perhaps, we should just enjoy the party as long as it lasts and bow down when the time comes. Screw the next generation, it ought to stop at some point of time and what’s a matter with us doing thing for *m* generations when everything will ultimately end after *n* generations with *m* always greater than *n*? 
 
 So that’s how they might be thinking. A perfectly rational posture, even though selfish. But who are we to preach ethics to these people? So don’t call them climate sceptics. They are the ones who want to go down with a bang, even if that endangers our lives and the lives of our children. Don’t be kind, deal with them politically - which means you should fight!
+
+<hr>
+
 ### Vocal about Local.
 
 With the COVID-19, India’s villages in the North and East India have seen a surge in migrants going back home. Now, the conditions are ripe for giving them a taste of “in-situ development” that we have blessed our middle and upper middle classes for quite some time.
@@ -56,4 +61,5 @@ So dear reader, I am stopping here. The world is dark, and I definitely want you
 I promise that I will quote Rilke and Rimbaud and make you smarter as we roll. Bye for the time being, happy exploiting!
 
 <hr>
-*Thoughts that I had as I read stuff today, you may find the articles in question via googling or ogling, whatever that suits you well
+*Thoughts that I had as I read stuff today, you may find the articles in question via googling or ogling, whatever that suits you well.
+<hr>

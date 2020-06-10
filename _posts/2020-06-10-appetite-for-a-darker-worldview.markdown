@@ -56,4 +56,4 @@ So dear reader, I am stopping here. The world is dark, and I definitely want you
 I promise that I will quote Rilke and Rimbaud and make you smarter as we roll. Bye for the time being, happy exploiting!
 
 <hr>
-* Thoughts that I had as I read stuff today, you may find the articles in question via googling or ogling, whatever that suits you well
+*Thoughts that I had as I read stuff today, you may find the articles in question via googling or ogling, whatever that suits you well

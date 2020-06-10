@@ -14,7 +14,7 @@ I was reading about Boris Johnson’s chief adviser Dominic Cummings and his wid
 For a civilised society, strong men and women are not the ones who sport a 56”. No man or woman is a match to the power that the state holds. But what makes the state powerful is its institutions. So if you are looking for a strong leader, it should be someone who nurtures these institutions - not someone who demolishes them to enhance his/her personal power. If history teaches us anything, this very behaviour ultimately leads to their downfall. Sometimes taking the entire realm as they go down.
 
 <hr>
-Before you go forward, here's an image to set the mood (work by an artist named Dhruvi):
+Before you go forward, here's an image to set the mood (work by an artist named [Dhruvi Acharya](https://www.instagram.com/dhruviacharya/?hl=en) ):
 
 ![](https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg)
 

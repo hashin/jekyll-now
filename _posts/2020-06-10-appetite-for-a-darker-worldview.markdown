@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Appetite for a darker worldview.
+title: Appetite for a darker worldview.
 image: 'https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg'
 date: '2020-06-10 10:51:39'
 published: true
@@ -14,7 +14,7 @@ I was reading about Boris Johnson’s chief adviser Dominic Cummings and his wid
 For a civilised society, strong men and women are not the ones who sport a 56”. No man or woman is a match to the power that the state holds. But what makes the state powerful is its institutions. So if you are looking for a strong leader, it should be someone who nurtures these institutions - not someone who demolishes them to enhance his/her personal power. If history teaches us anything, this very behaviour ultimately leads to their downfall. Sometimes taking the entire realm as they go down.
 
 <hr>
-Before you go forward, here's a image to set the mood:
+Before you go forward, here's an image to set the mood:
 
 ![](https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg)
 

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Appetite for a darker worldview.
+image: 'https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg'
+date: '2020-06-10 10:51:39'
+published: true
 ---
 So these are the thoughts for the day.*
 
@@ -8,6 +12,11 @@ So these are the thoughts for the day.*
 I was reading about Boris Johnson’s chief adviser Dominic Cummings and his wide ranging interests. About the eclectic blog posts that he writes and the breadth and depth of his knowledge. Despite all this, he fought an “uncivil” war front front, driving a deep wedge between different segments of British society. So clearly, “knowledge level” of someone is no guarantee of a better, more civil conduct when it comes to politics and its machinations to acquire power. A Democratic society should be wary of creating “powerful” people.
 
 For a civilised society, strong men and women are not the ones who sport a 56”. No man or woman is a match to the power that the state holds. But what makes the state powerful is its institutions. So if you are looking for a strong leader, it should be someone who nurtures these institutions - not someone who demolishes them to enhance his/her personal power. If history teaches us anything, this very behaviour ultimately leads to their downfall. Sometimes taking the entire realm as they go down.
+
+<hr>
+Before you go forward, here's a image to set the mood:
+
+![](https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg)
 
 ### Climate skeptic is a kind word, don’t use it.
 
@@ -26,7 +35,7 @@ With the COVID-19, India’s villages in the North and East India have seen a su
 
 This is an opportunity to help them find work near their homes and families. If they could enjoy a dignified life at homes, how can we prompt them to come back to their sub-human shawls in the middle of our cities? If we can’t, how can we get cheap labour for constructing our infrastructure and taking care of menial tasks like cooking our food and cleaning where we dump it? And eat in side-broken plates reserved for them?
 
-So their labour is much welcome, but spending government funds on making their lives better is not. If it happens, we should write essays about how it ruins the Fiscal Deficit margins and the sacrilege that is the violation of FRBM Act, 2003. So you see, we cannot let these migrants going back to *Grihasthashrama*, we need their *Shawl Sanyasa* where they live deprived of all basic dignity and amenities. This is the only way through which our giant conveyor belt of exploitation can roll.
+So their labour is much welcome, but spending government funds on making their lives better is not. If it happens, we should write essays about how it ruins the Fiscal Deficit margins and the sacrilege that is the violation of [FRBM Act, 2003](https://www.business-standard.com/about/what-is-frbm-act). So you see, we cannot let these migrants going back to *Grihasthashrama*, we need their *Shawl Sanyasa* where they live deprived of all basic dignity and amenities. This is the only way through which our giant conveyor belt of exploitation can roll.
 
 So no job generation in the countryside. No expansion of the secondary and tertiary sector there (let alone make them equitable). Even when we pay lip service to skilling and MSME, we can sabotage it easily. Even in schemes like Deen Dayal Upaddhyaya Grameen Kaushalya Yojana (DDU-GKY, not DDLJ-DIY), you could hand over skilling contracts to party functionaries graduated in Whatsapp university. MUDRA loans to party sympathizers and choke the credit lines for MSMEs. Electrify villages but not make electricity affordable. These are the practical ways of demonstrating the communal spirit that you have so thoroughly imbibed from <b>THE</b> IT cell online. 
 

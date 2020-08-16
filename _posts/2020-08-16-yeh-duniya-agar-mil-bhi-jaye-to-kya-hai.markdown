@@ -23,7 +23,7 @@ Whatever the case may be, It is worth listening to the lamentations of a broken 
 
 Yeh mahlo.n yeh takhto.n yeh taajo.n ki duniya,
 
-THIS IS A WORLD OF PALACES, THROMES AND CROWNS...
+THIS IS A WORLD OF PALACES, THRONES AND CROWNS...
 
 Yeh insaa.n ke dushman samaajo.n ki duniya,
 

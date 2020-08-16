@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  What is it, even if you win this universe?
-image: 'https://in.bookmyshow.com/entertainment/wp-content/uploads/2020/03/Sahir-Ludhianvi_FI.jpg'
+title: 'What is it, even if you win this universe?'
+image: >-
+  https://in.bookmyshow.com/entertainment/wp-content/uploads/2020/03/Sahir-Ludhianvi_FI.jpg
 date: '2020-08-16 09:31:26'
 published: true
 ---
@@ -36,10 +37,10 @@ Yeh daulat ke bhooke, rivaajo.n ki duniya,
 THIS IS A WORLD OF WEALTH GRUBBING MORES...
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Yeh duniya agar mil bhi jaaye, toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 
 Har ik jism ghaayal,
@@ -58,10 +59,10 @@ Yeh duniya hai ya aalam-e-bad-hawaasi,
 IS THIS THE WORLD OR OR A CRAZY PLACE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 
 Jahaa.n ek khilona hai insaan ki hasti,
@@ -74,10 +75,10 @@ Yahaa.n par to jeevan se hai maut sasti,
 HERE DEATH COMES CHEAPER THAN LIFE,
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 
 Jawaani bhatakti hai badkaar ban kar,
@@ -87,35 +88,35 @@ Jawaa.n jism sajte hain bazaar ban kar,
 YOUNG BODIES ARE DISPLAYED LIKE CHATTELS,
 
 Jahaa.n pyaar hota hai vyopaar ban kar,
-WHERE LOVE HAPPENS TO BE A TRADE-OFF,
+WHERE LOVE IS MADE INTO A BUSINESS,
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 
 Yeh duniya jahaa.n aadmi kuchh nahin hai
 THIS WORLD WHERE MAN IS NOTHING,
 
 Wafa kuchh nahin dosti kuchh nahin hai,
-CONSTANCY IS NAUGHT, FRIENDSHIP IS AUGHT,
+TRUST IS NOTHING, FRIENDSHIP IS NOTHING,
 
 Yeh duniya jahaa.n, aadmi kuchh nahin hai,
 THIS WORLD WHERE MAN IS NOTHING,
 
 Wafa kuchh nahin dosti kuchh nahin hai,
-CONSTANCY IS NAUGHT, FRIENDSHIP IS AUGHT,
+TRUST IS NOTHING, FRIENDSHIP IS NOTHING,
 
 Jahaa.n pyaar ki qadr hee kuchh nahin hai,
-WHERE LOVE'S VALUE ITSELF IS NAUGHT,
+WHERE LOVE'S VALUE ITSELF IS NOTHING,
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 
 Jalaa doh, ise phoonk daalo yeh duniya,
@@ -131,8 +132,8 @@ Tumhaari hai tum hee, sambhaalo yeh duniya,
 ‘TIS YOURS, AND YOURS THE WORLD TO KEEP,
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
-EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 <hr>
 
-The translation is an adaptation from the one given by [Nasir](https://nasir-eclectic.blogspot.com/2008/07/129-translation-of-sad-song-of-rafi-yeh.html).
+This is an independent translation inspired by the one given by [Nasir](https://nasir-eclectic.blogspot.com/2008/07/129-translation-of-sad-song-of-rafi-yeh.html).

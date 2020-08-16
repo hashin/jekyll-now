@@ -52,7 +52,7 @@ WHAT IS IT, EVEN IF YOU WIN THIS UNIVERSE?
 
 Har ik jism ghaayal,
 
-EACH AND EVERY BODY IS IN PAIN..
+EACH AND EVERY BODY IS WOUNDED..
 
 Har ik rooh pyaasi,
 

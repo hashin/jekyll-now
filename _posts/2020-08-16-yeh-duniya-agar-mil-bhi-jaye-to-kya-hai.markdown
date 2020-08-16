@@ -50,7 +50,7 @@ Dilo.n mein udaasi,
 SORROW IN THE HEART,
 
 Yeh duniya hai ya aalam-e-bad-hawaasi,
-IS THIS THE WORLD OR SENSELESS UNIVERSE?
+IS THIS THE WORLD OR OR A CRAZY PLACE?
 
 Yeh duniya agar mil bhi jaaye toh kya hai,
 EVEN IF ONE GAINS THIS WORLD - SO WHAT!
@@ -60,7 +60,7 @@ EVEN IF ONE GAINS THIS WORLD - SO WHAT!
 
 
 Jahaa.n ek khilona hai insaan ki hasti,
-WHERE MAN’S STATUS IS A PLAYTHING,
+WHERE MAN’S PERSONALITY (STATUS) IS A PLAYTHING,
 
 Yeh basti hai murda-parasto.n ki basti,
 THIS DWELLING IS ONE OF WORSHIPPERS OF THE DEAD,
@@ -114,10 +114,10 @@ EVEN IF ONE GAINS THIS WORLD - SO WHAT!
 
 
 Jalaa doh, ise phoonk daalo yeh duniya,
-BURN IT DOWN, CONSIGN THIS WORLD TO THE FLAMES,
+BURN IT DOWN, BLOW AWAY THIS UNIVERSE!
 
 Jalaa doh Jalaa doh Jalaa doh, ise phoonk daalo yeh duniya
-BURN IT DOWN, BURN IT DOWN, BURN IT DOWN, CONSIGN THIS WORLD TO THE FLAMES,
+BURN IT DOWN, BURN IT DOWN, BURN IT DOWN, AND BLOW AWAY THIS UNIVERSE!
 
 Mere saamne se hataa lo yeh duniya,
 REMOVE THIS WORLD FROM MY FACE,
@@ -127,3 +127,7 @@ Tumhaari hai tum hee, sambhaalo yeh duniya,
 
 Yeh duniya agar mil bhi jaaye toh kya hai.
 EVEN IF ONE GAINS THIS WORLD - SO WHAT!
+
+<hr>
+
+The translation is an adaptation from the one given by [Nasir](https://nasir-eclectic.blogspot.com/2008/07/129-translation-of-sad-song-of-rafi-yeh.html).

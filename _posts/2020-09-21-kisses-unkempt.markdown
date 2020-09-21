@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Kisses unkempt.
+image: 'https://cdn.pixabay.com/photo/2018/05/27/01/26/abstract-background-3432627__340.jpg'
+date: '2020-09-21 12:31:39'
+published: true
 ---
 It is a pity that kisses have to disappear. Aren’t they one of the sweetest creations that (wo)mankind can afford? They could be summoned at will and thrown away without much regret. Some of them live in our memories for decades, some are luscious yet contrite and some of them are lost on people who left those memories in a trash can. A trash which they threw into the ocean, swam three rounds across the globe, and was found at a beach in Santa Barbara. The same beach where they went for a respite from the grinding careers that chose them. 
 

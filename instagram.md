@@ -4,6 +4,8 @@ title: Click on the image below.
 permalink: /instagram/
 published: true
 ---
+<a href="http://blog.hashin.me/2020/09/21/kisses-unkempt/" target="_blank">![Kisses Unkempt](https://cdn.pixabay.com/photo/2018/05/27/01/26/abstract-background-3432627__340.jpg)</a>
+
 <a href="http://blog.hashin.me/2020/06/10/appetite-for-a-darker-worldview/" target="_blank">![Appetite for a darker worldview](https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg)</a>
 
 <a href="http://blog.hashin.me/2020/05/07/india-intellectual-project/" target="_blank">![India is an intellectual project too. It must be protected.](https://cdn.pixabay.com/photo/2015/02/27/22/28/india-652857_1280.png)</a>

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Love, confabulated.
+image: 'https://image.shutterstock.com/image-vector/continuous-line-group-talking-students-260nw-1140980474.jpg'
+date: '2020-11-07 13:48:39'
+published: true
 ---
 Fathima was curious enough. It seemed that she didn’t understand Sagar at all. They have been talking with each other for the past a few days. When Sagar first pinged her, she never expected that they would get along well. In fact, when they started talking, she felt that he is the very kind of guy she should never get involved with. Sagar never asked her out, but she always had a nagging feeling that he will do that sooner or later. He never insinuated it, yet, she decided to cut him out in case he did. 
 

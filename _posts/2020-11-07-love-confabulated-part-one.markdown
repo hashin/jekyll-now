@@ -26,3 +26,5 @@ Such was the story of Sagar’s love. With someone who never existed. But more s
 It was dawn already by the time she finished. The manuscript was several pages long and laid scattered on her bed. As the morning struggled to penetrate the shroud of pandemic over humanity, she put on her reading glasses, arranged the pages in order and started to read.
 
 [To be continued...]
+
+[Click here to read Part Two](http://blog.hashin.me/2020/11/18/love-confabulated-part-two/)

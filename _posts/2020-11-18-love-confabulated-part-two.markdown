@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Love, Confabulated (Part 2).
+title:  Love, confabulated (2).
 image: 'https://p0.pxfuel.com/preview/740/5/165/art-abstract-form-background.jpg'
 date: '2020-11-18 13:11:39'
 published: true

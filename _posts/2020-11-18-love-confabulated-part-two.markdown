@@ -33,7 +33,7 @@ She was a vanity bereft of any quotidian fantasies. She billowed up around him, 
 
 I started out writing about Sagar finding the light of love. But this story has become the story of the light herself. A fleeting presence that has changed the direction of many a story across the world. Her story made the esse of classics. It is the mind of masters lost to the world but somehow trudged their way back home. The gift mistresses who conjured up soulful lanterns in the darkest allies of human soul. The grit birds who chirped their way through the skies where they went extinct once.
 
-Her story is that of the humanity itself, a story of people who forgot to dream. And consequently, lost the ability to love. I am trying to write it down.
+Her story is that of humanity itself, a story of people who forgot to dream. And consequently, lost the ability to love. I am trying to write it down.
  
 [To be continued..]
 

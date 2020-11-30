@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  The era of global politics driving the local.
+image: 'https://cdn.theatlantic.com/thumbor/xMmH3A5LmbgJEffvXPfMYHRXKN4=/0x43:874x535/720x405/filters:format(png)/media/img/upload/wire/2013/11/27/Screen_Shot_2013_11_27_at_2.06.42_PM/original.png'
+date: '2020-11-30 14:06:39'
+published: true
 ---
 In democracies, local political compulsions drive the policy. Often, there are mechanisms in place to make sure that these compulsions don't lead to undesirable outcomes. This could be a wrong foreign policy stance against national interest. Or this could also be an unsustainable fiscal policy, which comes out of an unhealthy relationship with an attractive, but harmful foreign player. 
 

@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Little Chandrika (1).
+image: 'https://i.pinimg.com/564x/c2/f9/2c/c2f92cf997cab4c75882773b405b815a.jpg'
+date: '2020-12-05 21:15:39'
+published: true
 ---
 Chandrika (Moonlight in Malayalam), was a full fifty years old when she adopted two more children. It wasn’t your routine midlife crisis that pushed her into it. In fact, going by all indicators, fifties aren’t going to be ‘midlife’ for her by any chance. Her people don’t live much. And she is no different. She has been pushed into hard labour at the age of eight. She only has a faint memory of her parents. Not because they died early. They were around till her thirties or so. But then, she left home at eight to work at a nair house eighty kilometres from where she was born. They didn’t sell her per se, but for all practical purposes, she left home forever. 
 
